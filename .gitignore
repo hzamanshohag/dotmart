@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# env
+.env
+
+# build outputs
+.next
+dist
+build
+
+# vercel
+.vercel
