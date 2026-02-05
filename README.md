@@ -1,7 +1,40 @@
-# Dot Mart
+# Dot Mart 🛒
 
-## Client
-- React / Next.js app inside `dot-mart-client`
+Dot Mart is a full-stack e-commerce application built with **Next.js** on the client side and **Node.js / Express** on the server side.  
+The project follows a **monorepo structure**, containing both client and server in a single repository.
 
-## Server
-- Node / Express API inside `dot-mart-server`
+---
+
+## 📂 Project Structure
+
+dotmart/
+├── dot-mart-client/ # React / Next.js frontend
+├── dot-mart-server/ # Node.js / Express backend
+└── README.md
+
+
+---
+
+## 🚀 Tech Stack
+
+### Client
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Framer Motion
+
+### Server
+- Express
+- Mongoose
+- MongoDB
+- JWT Authentication
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/hzamanshohag/dotmart.git
+cd dotmart
