@@ -90,4 +90,8 @@ cd dotmart
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/hzamanshohag/dotmart.git
+<<<<<<< HEAD
 cd dotmart
+=======
+cd dotmart
+>>>>>>> 790c7bc (logo upload)
