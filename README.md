@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./logo.svg" alt="Dot Mart Logo" width="140" />
+  <img src="./dotmart_logo.png" alt="Dot Mart Logo" style="max-width:180px; height:auto;" />
 </p>
 
-<h1 align="center">Dot Mart 🛒</h1>
+<!-- <h1 align="center">Dot Mart 🛒</h1> -->
 
 <p align="center">
   A full-stack e-commerce application built with modern web technologies
