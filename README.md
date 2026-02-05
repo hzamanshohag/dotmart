@@ -37,7 +37,6 @@ dotmart/
 ├── .gitignore
 └── README.md
 
-
 ---
 
 ## 🚀 Tech Stack
@@ -60,12 +59,9 @@ dotmart/
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/hzamanshohag/dotmart.git
 cd dotmart
 
-
-
 ---
 
 ## 🚀 Tech Stack
@@ -88,7 +84,6 @@ cd dotmart
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/hzamanshohag/dotmart.git
 cd dotmart
 
