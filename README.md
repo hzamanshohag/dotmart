@@ -90,8 +90,28 @@ cd dotmart
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/hzamanshohag/dotmart.git
-<<<<<<< HEAD
 cd dotmart
-=======
-cd dotmart
->>>>>>> 790c7bc (logo upload)
+
+---
+
+## 👨‍💻 Author
+
+**Md Hasanuzzaman Shohag**  
+Full-Stack MERN Developer  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/hzaman-shohag
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended **for learning and demonstration purposes only**.  
+❌ **Do NOT use this project in production.**
+
+If you plan to use it in a real-world application, you must:
+- Perform proper security reviews
+- Configure production-grade authentication
+- Secure environment variables
+- Optimize performance and scalability
+
+The author will **not be responsible for any issues, damages, or misuse** arising from production use.
